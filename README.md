@@ -519,6 +519,7 @@
 | [Open Logic Project](https://openlogicproject.org/)          | "The *Open Logic Project* is a collection of teaching materials on mathematical logic aimed at a non-mathematical audience, intended for  use in advanced logic courses as taught in many philosophy departments.  It is open-source: you can download the LaTeX code. It is open: you’re  free to change it whichever way you like, and share your changes. It is  collaborative: a team of people is working on it, using the GitHub  platform, and we welcome contributions and feedback. And it is written  with configurability in mind." |
 | [Ultimate Electronics](https://ultimateelectronicsbook.com)  | "A free, interactive book for electronics hobbyists and electrical engineering students." Work in progress. |
 
+
 ### Tools
 
 | Website                           | Description                                                  |
@@ -913,6 +914,7 @@
 | [NutritionFacts.org](https://nutritionfacts.org/)            | Free videos on more than 2,000 health and nutrition topics, presenting the latest research in nutrition and health. Presented by Michael Greger, M.D. FACLM, the author of *How Not to Die* and *How Not to Diet.* |
 | [Self-rescue technique for choking victims](https://www.youtube.com/watch?app=desktop&t=61&v=Op2TjTQs7X0) (Video) | A technique for a victim to rescue themselves when they are choking and no one is available to help them. (Not the Heimlich maneuver / abdominal thrusts). Provided by a firefighter/paramedic and instructor of Advanced and Basic life support. [Direct link to the maneuver.](https://www.youtube.com/watch?v=Op2TjTQs7X0&t=75s) |
 | [UCLA MARC Meditatons](https://www.uclahealth.org/marc/mindful-meditations) | Free, guided mediations from UCLA's Mindful Awareness Research Center (MARC). 107 minutes of mediations, with transcripts. Eight English and 4 Spanish meditations. |
+| [GoodRx](https://www.goodrx.com/)                            | "Compare prices, find FREE coupons, and save up to 80%" |
 
 ### Food
 
@@ -1062,6 +1064,7 @@
 | [TinyLetter](https://tinyletter.com/) by Mailchimp           | "TinyLetter is a personal newsletter service brought to you by the people behind [Mailchimp](http://mailchimp.com). People use it to send updates, digests, and dispatches to their fans and friends. Though they're built on the same infrastructure, TinyLetter is for  people who don't need all the business features that come along with  Mailchimp. Simplicity is at the heart of everything we do at TinyLetter. TinyLetter is a completely free service." |
 | [Fastmail](https://www.fastmail.com/)                        | Private, premium email with lots of nice features (custom domains, generous data storage, and more). Plans start at $3 per user per month. The standard plan is $5 per user per month, and includes 30gb of storage, calendars, 600+ alias addresses, custom domain addresses, and more. |
 | [ProtonMail](https://protonmail.com/)                        | Private, anonymous, encrypted email. Based in Switzerland. Free tier available, and their premium tiers start at $5 per month. |
+| [Firefox Relay](https://relay.firefox.com/)                  | "Firefox Relay⁩ makes it easy to create aliases, randomly generated email addresses that forward to your real inbox. Use it to protect your online accounts - and your identity - from hackers. Sign in with your ⁨Firefox account⁩ to get started." |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To <em>Table of Contents</em></a></b>
